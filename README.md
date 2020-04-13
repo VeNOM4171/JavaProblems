@@ -32,5 +32,5 @@ if one of three angles equals 90
  
  Program to Find a point whether it is inside the area of Triangle or outside.
  
- ### The Coordinates of Random Point P(x,y) & Points of Triangle is Taken as Input like Point A(x1,y1), B(x2,y2), C(x3,y3)
- ### if point found inside the Area output "Inside" otherwise "Outside"
+ The Coordinates of Random Point P(x,y) & Points of Triangle is Taken as Input like Point A(x1,y1), B(x2,y2), C(x3,y3) 
+ if point found inside the Area output "Inside" otherwise "Outside"
