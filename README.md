@@ -34,3 +34,14 @@ if one of three angles equals 90
  
  The Coordinates of Random Point P(x,y) & Points of Triangle is Taken as Input like Point A(x1,y1), B(x2,y2), C(x3,y3) 
  if point found inside the Area output "Inside" otherwise "Outside"
+
+# BreadthFirstSearch
+
+BFS is an Algorithm that Searches through graphs.
+
+In BFS user can decide the starting point to begin the search and also can decide the end point 
+but for simplicity,here first node is selected as starting point and last node is selected as end point.
+
+adjacency matrix of order nxn (n is total number of node) is used to store the info of edges
+
+'1' if there is edge, '0' if no edges(default)
