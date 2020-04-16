@@ -37,7 +37,7 @@ if one of three angles equals 90
 
 # BreadthFirstSearch
 
-BFS is an Algorithm that Searches through graphs.
+BFS is an Algorithm that Searches through graphs, Queue DataStructure is used.
 
 In BFS user can decide the starting point to begin the search and also can decide the end point 
 but for simplicity,here first node is selected as starting point and last node is selected as end point.
@@ -45,3 +45,10 @@ but for simplicity,here first node is selected as starting point and last node i
 adjacency matrix of order nxn (n is total number of node) is used to store the info of edges
 
 '1' if there is edge, '0' if no edges(default)
+
+# DepthFirstSearch 
+
+Function is Similar to BFS to search through graphs, Stack DataStructure is used.
+
+The DFS algorithm is a recursive algorithm that uses the idea of backtracking. It involves exhaustive searches of all the unvisited nodes by going ahead in depth in one path, if no unvisited node avalaible then it start backtracking means move backwards on the same path to find adjacent unvisited nodes if unvisited node found then that path will be selected for the search ..... till all nodes are visited it will repeat searching & backtracking.
+
